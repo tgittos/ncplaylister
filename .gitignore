@@ -1,0 +1,4 @@
+.rbenv*
+timestamp
+*.key
+tmp
